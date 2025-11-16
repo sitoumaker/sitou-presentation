@@ -10,7 +10,7 @@ I’m an **electronics and robotics engineering student **, designing my own har
 This repo is your gateway to fun, clear, and precise science & engineering projects, presentations, and demos.  
 From quantum quirks to gene jokes to robot pranks, we make science and engineering cool—and love to present it with style! 😎🎤
 
-- 🎓 Studying **mechanical and electrical engineering**
+- 🎓 Studying **mechanical, electronics and fundamental physics**
 - 🧠 Passionate about **embedded systems**, **Arduino projects**, and **IoT gadgets**
 - 🛠️ Focused on **low-power designs**, **DIY watches**, **controllers**, and **smart devices**
 - 💻 Learning to create cross-platform control apps (desktop/mobile) for my robots
